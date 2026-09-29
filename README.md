@@ -1,6 +1,7 @@
 # @nangeagi/dsh-sop-capsules
 
-DeepSeek Harness 插件，**提示胶囊**：在当前工作区沉淀可复用 SOP / 提示片段，并在会话输入框中一键注入。
+DeepSeek Harness 插件，**提示胶囊**：在当前工作区沉淀可复用 SOP / 提示片段，并在会话输入框中一键注入。    
+作者：@南哥AGI研习社（B站、YouTube）       
 
 ## 功能
 
