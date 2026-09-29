@@ -1,7 +1,7 @@
 {
   "name": "@nangeagi/dsh-sop-capsules",
   "description": "Tree-outside Web plugin for workspace SOP capsule library (Host Remote + Client)",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "type": "module",
   "main": "lib/index.js",
