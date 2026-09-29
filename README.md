@@ -95,36 +95,36 @@ pnpm dsh web --patch plugins/sop-capsules/cordis.source.patch.yml
 
 🎬 视频合集链接：
 
-B站视频链接：[https://www.bilibili.com/video/BV1fJYk6NEQb/](https://www.bilibili.com/video/BV1fJYk6NEQb/)
-YouTube视频链接：[https://www.youtube.com/playlist?list=PLaooKLIkjb0g](https://www.youtube.com/playlist?list=PLaooKLIkjb0g)
+B站视频链接：[https://www.bilibili.com/video/BV1fJYk6NEQb/](https://www.bilibili.com/video/BV1fJYk6NEQb/)        
+YouTube视频链接：[https://www.youtube.com/playlist?list=PLaooKLIkjb0g](https://www.youtube.com/playlist?list=PLaooKLIkjb0g)        
 
-【充电视频 · AGI研习｜进阶（30元档）】持续更新中，感兴趣的朋友欢迎充电支持，非常感谢大家：
+【充电视频 · AGI研习｜进阶（30元档）】持续更新中，感兴趣的朋友欢迎充电支持，非常感谢大家：       
 
-（1）**零基础上手 DeepSeek Harness：从安装到插件交付的全链路实战**
+（1）**零基础上手 DeepSeek Harness：从安装到插件交付的全链路实战**        
 
-B站视频链接：[https://www.bilibili.com/video/BV1fJYk6NEQb/](https://www.bilibili.com/video/BV1fJYk6NEQb/)
+B站视频链接：[https://www.bilibili.com/video/BV1fJYk6NEQb/](https://www.bilibili.com/video/BV1fJYk6NEQb/)       
 
-YouTube视频链接：[https://www.youtube.com/playlist?list=PLaooKLIkjb0g](https://www.youtube.com/playlist?list=PLaooKLIkjb0g)
+YouTube视频链接：[https://www.youtube.com/playlist?list=PLaooKLIkjb0g](https://www.youtube.com/playlist?list=PLaooKLIkjb0g)      
 
-（2）**零基础上手 Skill：从 0 到交付的全链路闭环实战**
+（2）**零基础上手 Skill：从 0 到交付的全链路闭环实战**     
 
-B站视频链接：[https://www.bilibili.com/video/BV1TNGZ6uEGQ/](https://www.bilibili.com/video/BV1TNGZ6uEGQ/) 
+B站视频链接：[https://www.bilibili.com/video/BV1TNGZ6uEGQ/](https://www.bilibili.com/video/BV1TNGZ6uEGQ/)      
 
-YouTube视频链接：[https://www.youtube.com/playlist?list=PL8zBXedQ0ufmOXOUX0kOZMrYt1C4fjg2T](https://www.youtube.com/playlist?list=PL8zBXedQ0ufmOXOUX0kOZMrYt1C4fjg2T) 
+YouTube视频链接：[https://www.youtube.com/playlist?list=PL8zBXedQ0ufmOXOUX0kOZMrYt1C4fjg2T](https://www.youtube.com/playlist?list=PL8zBXedQ0ufmOXOUX0kOZMrYt1C4fjg2T)  
 
-（3）**零基础上手 n8n v2.x 实战：打造 n8n 驱动的自动化生产线**
+（3）**零基础上手 n8n v2.x 实战：打造 n8n 驱动的自动化生产线**   
 
-B站视频链接：[https://www.bilibili.com/video/BV1Aq1NBYELp/](https://www.bilibili.com/video/BV1Aq1NBYELp/)
+B站视频链接：[https://www.bilibili.com/video/BV1Aq1NBYELp/](https://www.bilibili.com/video/BV1Aq1NBYELp/)      
 
-YouTube 视频链接：[https://www.youtube.com/playlist?list=PL8zBXedQ0uflhkZBwlQNAp7H57CJFgfgV](https://www.youtube.com/playlist?list=PL8zBXedQ0uflhkZBwlQNAp7H57CJFgfgV)
+YouTube 视频链接：[https://www.youtube.com/playlist?list=PL8zBXedQ0uflhkZBwlQNAp7H57CJFgfgV](https://www.youtube.com/playlist?list=PL8zBXedQ0uflhkZBwlQNAp7H57CJFgfgV)      
 
-（4）**零基础上手OpenClaw系列：从零打造智能体驱动的商业自动化闭环**
+（4）**零基础上手OpenClaw系列：从零打造智能体驱动的商业自动化闭环**      
 
-B站视频链接：[https://www.bilibili.com/video/BV1svQGBBERQ/](https://www.bilibili.com/video/BV1svQGBBERQ/)
+B站视频链接：[https://www.bilibili.com/video/BV1svQGBBERQ/](https://www.bilibili.com/video/BV1svQGBBERQ/)      
 
-YouTube视频链接：[https://www.youtube.com/playlist?list=PL8zBXedQ0ufmtUvaHsSxNqZMwgb3hxsJB](https://www.youtube.com/playlist?list=PL8zBXedQ0ufmtUvaHsSxNqZMwgb3hxsJB)
-
-（5）**零基础上手 LangChain V1.x 实战： 学最主流 Agent 开发框架**
+YouTube视频链接：[https://www.youtube.com/playlist?list=PL8zBXedQ0ufmtUvaHsSxNqZMwgb3hxsJB](https://www.youtube.com/playlist?list=PL8zBXedQ0ufmtUvaHsSxNqZMwgb3hxsJB)    
+ 
+（5）**零基础上手 LangChain V1.x 实战： 学最主流 Agent 开发框架**   
 
 B站视频链接：[https://www.bilibili.com/video/BV17c6mBbEHv/](https://www.bilibili.com/video/BV17c6mBbEHv/)
 
