@@ -11,16 +11,24 @@ DeepSeek Harness 插件，**提示胶囊**：在当前工作区沉淀可复用 S
 - 斜杠引用样式：输入框中与当前会话指令名、内置指令声明词或技能名完全一致的 `/词` 显示为引用样式；其余斜杠文本保持纯文本。
 - 宿主远程接口：Typert 命名空间 `sopCapsules`（`listLibrary`、`getGroup`、`saveGroup`、`deleteGroup`、`reorderGroups` 等），Web 端经 `$mount` 的 `./remote` 调用，不走裸文件远程读写。
 
+![提示胶囊界面 1](pictures/01.png)
+
+![提示胶囊界面 2](pictures/02.png)
+
+![提示胶囊界面 3](pictures/03.png)
+
 ## 安装与使用
 
 要求：已安装 DeepSeek Harness（`dsh` 命令行）。
+
+npm安装：
 
 ```sh
 dsh plugin --profile web add @nangeagi/dsh-sop-capsules
 dsh web
 ```
 
-GitHub安装包：
+GitHub安装：
 
 ```sh
 dsh plugin --profile web add github:NanGePlus/dsh-sop-capsules
@@ -87,8 +95,8 @@ pnpm dsh web --patch plugins/sop-capsules/cordis.source.patch.yml
 
 🎬 视频合集链接：
 
-[https://www.bilibili.com/video/BV1fJYk6NEQb/](https://www.bilibili.com/video/BV1fJYk6NEQb/)
-[https://www.youtube.com/playlist?list=PLaooKLIkjb0g](https://www.youtube.com/playlist?list=PLaooKLIkjb0g)
+B站视频链接：[https://www.bilibili.com/video/BV1fJYk6NEQb/](https://www.bilibili.com/video/BV1fJYk6NEQb/)
+YouTube视频链接：[https://www.youtube.com/playlist?list=PLaooKLIkjb0g](https://www.youtube.com/playlist?list=PLaooKLIkjb0g)
 
 【充电视频 · AGI研习｜进阶（30元档）】持续更新中，感兴趣的朋友欢迎充电支持，非常感谢大家：
 
@@ -96,31 +104,31 @@ pnpm dsh web --patch plugins/sop-capsules/cordis.source.patch.yml
 
 B站视频链接：[https://www.bilibili.com/video/BV1fJYk6NEQb/](https://www.bilibili.com/video/BV1fJYk6NEQb/)
 
-YouTube视频链接：++[https://www.youtube.com/playlist?list=PLaooKLIkjb0g](https://www.youtube.com/playlist?list=PLaooKLIkjb0g)++
+YouTube视频链接：[https://www.youtube.com/playlist?list=PLaooKLIkjb0g](https://www.youtube.com/playlist?list=PLaooKLIkjb0g)
 
 （2）**零基础上手 Skill：从 0 到交付的全链路闭环实战**
 
-B站视频链接：++[https://www.bilibili.com/video/BV1TNGZ6uEGQ/](https://www.bilibili.com/video/BV1TNGZ6uEGQ/)++ 
+B站视频链接：[https://www.bilibili.com/video/BV1TNGZ6uEGQ/](https://www.bilibili.com/video/BV1TNGZ6uEGQ/) 
 
-YouTube视频链接：++[https://www.youtube.com/playlist?list=PL8zBXedQ0ufmOXOUX0kOZMrYt1C4fjg2T](https://www.youtube.com/playlist?list=PL8zBXedQ0ufmOXOUX0kOZMrYt1C4fjg2T)++ 
+YouTube视频链接：[https://www.youtube.com/playlist?list=PL8zBXedQ0ufmOXOUX0kOZMrYt1C4fjg2T](https://www.youtube.com/playlist?list=PL8zBXedQ0ufmOXOUX0kOZMrYt1C4fjg2T) 
 
 （3）**零基础上手 n8n v2.x 实战：打造 n8n 驱动的自动化生产线**
 
-B站视频链接：++[https://www.bilibili.com/video/BV1Aq1NBYELp/](https://www.bilibili.com/video/BV1Aq1NBYELp/)++
+B站视频链接：[https://www.bilibili.com/video/BV1Aq1NBYELp/](https://www.bilibili.com/video/BV1Aq1NBYELp/)
 
-YouTube 视频链接：++[https://www.youtube.com/playlist?list=PL8zBXedQ0uflhkZBwlQNAp7H57CJFgfgV](https://www.youtube.com/playlist?list=PL8zBXedQ0uflhkZBwlQNAp7H57CJFgfgV)++
+YouTube 视频链接：[https://www.youtube.com/playlist?list=PL8zBXedQ0uflhkZBwlQNAp7H57CJFgfgV](https://www.youtube.com/playlist?list=PL8zBXedQ0uflhkZBwlQNAp7H57CJFgfgV)
 
 （4）**零基础上手OpenClaw系列：从零打造智能体驱动的商业自动化闭环**
 
-B站视频链接：++[https://www.bilibili.com/video/BV1svQGBBERQ/](https://www.bilibili.com/video/BV1svQGBBERQ/)++
+B站视频链接：[https://www.bilibili.com/video/BV1svQGBBERQ/](https://www.bilibili.com/video/BV1svQGBBERQ/)
 
-YouTube视频链接：++[https://www.youtube.com/playlist?list=PL8zBXedQ0ufmtUvaHsSxNqZMwgb3hxsJB](https://www.youtube.com/playlist?list=PL8zBXedQ0ufmtUvaHsSxNqZMwgb3hxsJB)++
+YouTube视频链接：[https://www.youtube.com/playlist?list=PL8zBXedQ0ufmtUvaHsSxNqZMwgb3hxsJB](https://www.youtube.com/playlist?list=PL8zBXedQ0ufmtUvaHsSxNqZMwgb3hxsJB)
 
 （5）**零基础上手 LangChain V1.x 实战： 学最主流 Agent 开发框架**
 
-B站视频链接：++[https://www.bilibili.com/video/BV17c6mBbEHv/](https://www.bilibili.com/video/BV17c6mBbEHv/)++
+B站视频链接：[https://www.bilibili.com/video/BV17c6mBbEHv/](https://www.bilibili.com/video/BV17c6mBbEHv/)
 
-YouTube 视频链接：++[https://www.youtube.com/playlist?list=PL8zBXedQ0ufld2C7nB28fGw9U6nTbagp1](https://www.youtube.com/playlist?list=PL8zBXedQ0ufld2C7nB28fGw9U6nTbagp1)++
+YouTube 视频链接：[https://www.youtube.com/playlist?list=PL8zBXedQ0ufld2C7nB28fGw9U6nTbagp1](https://www.youtube.com/playlist?list=PL8zBXedQ0ufld2C7nB28fGw9U6nTbagp1)
 
 ## AI Coding 学习推荐
 
@@ -156,11 +164,11 @@ AI写代码，真正受你控制。
 
 获取方式1:
 
-++[https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&itemsId=41424824&loadingShow=1&noTitleBar=1#noReffer=true&msource=merchant_share](https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&itemsId=41424824&loadingShow=1&noTitleBar=1#noReffer=true&msource=merchant_share)++
+[https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&itemsId=41424824&loadingShow=1&noTitleBar=1#noReffer=true&msource=merchant_share](https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&itemsId=41424824&loadingShow=1&noTitleBar=1#noReffer=true&msource=merchant_share)
 
 获取方式2:
 
-++[https://www.patreon.com/nangeagi/posts/ni-shi-bu-shi-ye-166882633?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link](https://www.patreon.com/nangeagi/posts/ni-shi-bu-shi-ye-166882633?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)++
+[https://www.patreon.com/nangeagi/posts/ni-shi-bu-shi-ye-166882633?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link](https://www.patreon.com/nangeagi/posts/ni-shi-bu-shi-ye-166882633?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)
 
 ## 许可证
 
