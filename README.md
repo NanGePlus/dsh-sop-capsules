@@ -1,7 +1,7 @@
 # @nangeagi/dsh-sop-capsules
 
-DeepSeek Harness 插件，**提示胶囊**：在当前工作区沉淀可复用 SOP / 提示片段，并在会话输入框中一键注入。当前最新版本为0.2.0，适配DSH对应版本0.2.0-x。
-作者：@南哥AGI研习社（B站、YouTube）
+DeepSeek Harness 插件，**提示胶囊**：在当前工作区沉淀可复用 SOP / 提示片段，并在会话输入框中一键注入。当前最新版本为0.2.0，适配DSH对应版本0.2.0-x。       
+作者：@南哥AGI研习社（B站、YouTube）      
 
 ## 功能
 
@@ -84,18 +84,18 @@ pnpm dsh web --patch plugins/sop-capsules/cordis.source.patch.yml
 
 ## DeepSeek Harness 学习推荐
 
-本系列带大家零基础上手 DeepSeek Harness，沿着一条能真正走完的路径，从安装到插件交付的全链路实战：
+本系列带大家零基础上手 DeepSeek Harness，沿着一条能真正走完的路径，从安装到插件交付的全链路实战：    
 
-📦 安装上手 → 🧠 核心认知 → 🛠️ 源码部署 → 🔌 插件交付 → 🤖 AI 辅助开发 → 📊 可观测链路
+📦 安装上手 → 🧠 核心认知 → 🛠️ 源码部署 → 🔌 插件交付 → 🤖 AI 辅助开发 → 📊 可观测链路     
 
 **目前已在频道更新内容：**
 
-【EP01】零基础上手 DeepSeek Harness，从这一步开始。一键安装 + 页面功能 + 插件挂载和卸载
-【EP02】搞懂 DeepSeek Harness，从这一层开始。概念 + 架构 + 四种 Agent 模式 + Profile/Bundle/Patch
-【EP03】深入 DeepSeek Harness，从源码跑起来开始。源码安装 + 运行实操 + 配置说明
-【EP04】搞定 DeepSeek Harness 插件交付，从这 4 种方式开始。本地 + tarball + npm registry + Git 仓库
-【EP05】用 AI Coding SOP 高效写 DeepSeek Harness 插件，需求对齐->规划拆解->分拣实现->排错修复->架构维护和交付
-期待更多……
+【EP01】零基础上手 DeepSeek Harness，从这一步开始。一键安装 + 页面功能 + 插件挂载和卸载      
+【EP02】搞懂 DeepSeek Harness，从这一层开始。概念 + 架构 + 四种 Agent 模式 + Profile/Bundle/Patch       
+【EP03】深入 DeepSeek Harness，从源码跑起来开始。源码安装 + 运行实操 + 配置说明      
+【EP04】搞定 DeepSeek Harness 插件交付，从这 4 种方式开始。本地 + tarball + npm registry + Git 仓库       
+【EP05】用 AI Coding SOP 高效写 DeepSeek Harness 插件，需求对齐->规划拆解->分拣实现->排错修复->架构维护和交付     
+期待更多……     
 
 🎬 视频合集链接：
 
