@@ -1,0 +1,22 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "lib/types",
+    "tsBuildInfoFile": "lib/tsconfig.host.tsbuildinfo"
+  },
+  "files": [
+    "src/index.ts",
+    "src/library-io.ts",
+    "src/types.ts",
+    "src/group-yaml.ts",
+    "src/workspace-root.ts"
+  ],
+  "references": [
+    { "path": "../../vendor/cordis" },
+    { "path": "../../packages/core/session" },
+    { "path": "../../packages/session/session-persistence" },
+    { "path": "../../packages/typert/protocol" },
+    { "path": "../../packages/workspace/workspace" }
+  ]
+}
